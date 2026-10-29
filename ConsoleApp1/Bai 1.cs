@@ -59,7 +59,7 @@ namespace Bai1_KiemTraDauNgoac
             return -1;
         }
 
-        static void Main()
+        static void Main1()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
