@@ -90,7 +90,7 @@ namespace Bai2_MoPhongQuayDichVu
             Console.WriteLine($"Hoan thanh luc: {hoanThanhLuc}\n");
         }
 
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("=== CHƯƠNG TRÌNH KIỂM THỬ BÀI 2: MÔ PHỎNG QUẦY DỊCH VỤ ===\n");
