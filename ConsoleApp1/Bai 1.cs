@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace Bai1_KiemTraDauNgoac
 {
-    class Program
+    class Bai1
     {
         // Hàm kiểm tra chuỗi, trả về -1 nếu hợp lệ, ngược lại trả về vị trí lỗi
         static int KiemTraNgoac(string s)
